@@ -1,0 +1,13 @@
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.csproj.AssemblyReference.cache
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.csproj.SuggestedBindingRedirects.cache
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.Form1.resources
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.Form2.resources
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.Form3.resources
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.Properties.Resources.resources
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.csproj.GenerateResource.cache
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.csproj.CoreCompileInputs.cache
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\bin\Debug\LAB04_Nhom.exe.config
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\bin\Debug\LAB04_Nhom.exe
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\bin\Debug\LAB04_Nhom.pdb
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.exe
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.pdb
