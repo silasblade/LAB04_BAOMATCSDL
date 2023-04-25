@@ -20,7 +20,7 @@ namespace LAB04_Nhom
         public static string manv;
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 Form2 = new Form2();
+            Menu menu = new Menu();
             string tb1 = textBox1.Text;
             string tb2 = textBox2.Text;
             string connectionString = "Data Source=VISHAGNA;Initial Catalog=QLSVNhom;Integrated Security=True";
@@ -32,7 +32,7 @@ namespace LAB04_Nhom
             {
                 connection.Close();
                 manv = tb1;
-                Form2.Show();
+                menu.Show();
                 this.Hide();
             }
             else
@@ -45,6 +45,11 @@ namespace LAB04_Nhom
         private void button2_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
     }

@@ -11,3 +11,9 @@ C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\bin\Debug\LAB04_Nho
 C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\bin\Debug\LAB04_Nhom.pdb
 C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.exe
 C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.pdb
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.AddNV.resources
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.AddClass.resources
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.QLSV.resources
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.Menu.resources
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.AddSV.resources
+C:\Users\visha\GitHub\LAB04_BAOMATCSDL\LAB04_Nhom\LAB04_Nhom\obj\Debug\LAB04_Nhom.NhapDiem.resources
